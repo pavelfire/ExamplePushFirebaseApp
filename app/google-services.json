@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721975283389",
+    "project_id": "examplepushfirebasea",
+    "storage_bucket": "examplepushfirebasea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721975283389:android:4974efc399b14c79d7b1d4",
+        "android_client_info": {
+          "package_name": "com.vk.directop.examplepushfirebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKpMqtFZe0v9kPrI0yclRM-y5j9PaMvhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
