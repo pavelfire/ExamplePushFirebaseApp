@@ -1,0 +1,1 @@
+Start client firebase push messaging.
